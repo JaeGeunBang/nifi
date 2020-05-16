@@ -1240,13 +1240,13 @@ NOTE:  You cannot modify the users/groups on an inherited policy.  Users and gro
 
 From the UI, select “Users” from the Global Menu. This opens the NiFi Users dialog.
 
-image:user-policies.png["User Policies Window"]
+image:images/user-policies.png["User Policies Window"]
 
 Select the View User Policies icon (image:iconUserPolicies.png["User Policies Icon"]).
 
 image:user-policies-detail.png["User Policies Detail"]
 
-The User Policies window displays the global and component level policies that have been set for the chosen user.  Select the Go To icon (image:iconGoTo.png["Go To Icon"]) to navigate to that component in the canvas.
+The User Policies window displays the global and component level policies that have been set for the chosen user.  Select the Go To icon (:::iconGoTo.png["Go To Icon"]) to navigate to that component in the canvas.
 
 [[access-policy-config-examples]]
 ==== Access Policy Configuration Examples
